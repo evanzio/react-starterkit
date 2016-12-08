@@ -1,0 +1,9 @@
+#node modules
+node_modules
+npm-debug.log
+
+#dist
+dist
+
+# OSX files
+.DS_Store
